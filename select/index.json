@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "minipops 67 [120.2][source field mix]",
+  "base_artist": "Aphex Twin",
+  "createdAt": "2026-01-14T02:11:40.495791Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "minipops 67 [120.2][source field mix]",
+      "artist": "Aphex Twin",
+      "has_synced": true,
+      "path": "select/01_minipops_67_[120.2][source_field_mix]_Aphex_Twin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "minipops 67 (source field mix) [120.2]",
+      "artist": "Aphex Twin",
+      "has_synced": true,
+      "path": "select/02_minipops_67_(source_field_mix)_[120.2]_Aphex_Twin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Minipops 67 (120.2) Source Field Mix) (Aka the Manchester Track)",
+      "artist": "Aphex Twin",
+      "has_synced": true,
+      "path": "select/03_Minipops_67_(120.2)_Source_Field_Mix)_(Aka_the_Manchester_Track)_Aphex_Twin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "minipops 67 (source field mix)",
+      "artist": "Aphex Twin",
+      "has_synced": true,
+      "path": "select/04_minipops_67_(source_field_mix)_Aphex_Twin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Minipops 67 [120.2]",
+      "artist": "Aphex Twin",
+      "has_synced": true,
+      "path": "select/05_Minipops_67_[120.2]_Aphex_Twin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "minipops 67 [120.2][source field mix]",
+      "artist": "Aphex Twin",
+      "has_synced": true,
+      "path": "select/06_minipops_67_[120.2][source_field_mix]_Aphex_Twin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Minipops 67",
+      "artist": "Aphex Twin",
+      "has_synced": true,
+      "path": "select/07_Minipops_67_Aphex_Twin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "minipops 67 [1202][source field mix]",
+      "artist": "Aphex Twin",
+      "has_synced": true,
+      "path": "select/08_minipops_67_[1202][source_field_mix]_Aphex_Twin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "minipops 67 [120.2][source field mix] (Original Mix)",
+      "artist": "Aphex Twin",
+      "has_synced": true,
+      "path": "select/09_minipops_67_[120.2][source_field_mix]_(Original_Mix)_Aphex_Twin.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "minipops 67 [120.2] [source field mix]",
+      "artist": "aphex twin",
+      "has_synced": true,
+      "path": "select/10_minipops_67_[120.2]_[source_field_mix]_aphex_twin.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "minipops 67 [120.2][source field mix]",
+      "artist": "Aphex Twin",
+      "has_synced": true,
+      "path": "select/11_minipops_67_[120.2][source_field_mix]_Aphex_Twin.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "minipops 67 [120.2][source field mix] (Paused)",
+      "artist": "Aphex Twin",
+      "has_synced": true,
+      "path": "select/12_minipops_67_[120.2][source_field_mix]_(Paused)_Aphex_Twin.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "minipops 67 [120.2]",
+      "artist": "Aphex Twin",
+      "has_synced": false,
+      "path": "select/pl_01_minipops_67_[120.2]_Aphex_Twin.txt"
+    }
+  ]
+}
